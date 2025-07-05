@@ -8,24 +8,24 @@ The following global variables can be overridden:
 
 ```css
 :root {
-  /* Background colors */
+  /* Background colours */
   --bg-primary         /* Primary UI elements (e.g. buttons, headers) */
   --bg-secondary       /* Secondary UI elements (e.g. sidebar, footer) */
   --bg-danger          /* Background for error states */
   --bg-accent          /* Accent background (cards, highlights) */
 
-  /* Text colors */
-  --text-primary       /* Default text color for main content */
+  /* Text colours */
+  --text-primary       /* Default text colour for main content */
   --text-secondary     /* Muted/secondary text */
   --text-success       /* Success state text (e.g. alerts, badges) */
   --text-warning       /* Warning text */
   --text-danger        /* Error text */
 
-  /* Border colors */
-  --border-primary     /* Default border color */
+  /* Border colours */
+  --border-primary     /* Default border colour */
   --border-secondary   /* Lighter border for subtle dividers */
 
-  /* Highlight colors */
+  /* Highlight colours */
   --highlight-bg       /* Skeleton loaders or subtle highlights */
   --highlight-accent   /* Lighter highlight for shimmer effects */
 
